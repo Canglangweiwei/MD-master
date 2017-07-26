@@ -38,13 +38,8 @@ GIF
 ###注解
 https://github.com/JakeWharton/butterknife<br>
 
-
-
 ###网络请求
 https://github.com/square/retrofit <br>
-
-
-
 
 
 ###图片处理
@@ -61,12 +56,6 @@ https://github.com/Bilibili/ijkplayer<br>
 #感谢
 1.聚合数据 https://www.juhe.cn/<br>
 2.ijkplayer参考了 https://github.com/w1123440793/VideoListDemo<br>
-#推荐阅读
-1.模仿掌上英雄联盟能力分析效果<br> https://github.com/jiangzehui/polygonsview<br><br>
-
-2.开源一个自己去年写的基于Xmpp协议的即时通讯社交软件 (客户端+服务端)<br> https://github.com/jiangzehui/xmpp<br><br>
-
-#如果你觉得还不错，可以给个star，支持下，谢谢了！<br>
 
 #About me
 
